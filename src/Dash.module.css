@@ -1,0 +1,91 @@
+table{
+    border: 1px solid black;
+}
+.paragraph{
+    font-size: 1rem;
+}
+.students{
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.plo{
+    margin-left: 8px;
+}
+.wer{
+    margin-left: 15px;
+}
+.home{
+    display: flex;
+    margin-top: 80px;
+    margin-left: 15px;
+
+}
+.homeimage{
+    height: 20px;
+    width: 25px;
+}
+.note{
+    height: 20px;
+    width: 20px;
+   
+}
+.leftsidebar{
+
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    
+}
+.era{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(135, 129, 129);
+    width:140px;
+    height:90vh;
+    border: 1px solid rgb(109, 109, 109);
+   
+    
+}
+.it{
+    display: flex;
+    flex-direction: row;
+    margin-top: 60px;
+    margin-left: 19px;
+}
+
+.navbar{
+    background-color: #c2c2c2; 
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    border: 1px solid rgb(109, 109, 109);
+    height: 60px;
+}
+
+.navbar img{
+    width: 40px;
+    height: 40px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.logoplacing{
+    display: flex;
+    flex-direction: row;
+}
+.tar{
+    margin-top: 18px;
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.navbar input{
+    margin-left: 400px;
+    margin-top: 18px;
+    width: 300px;
+    height: 25px;
+    border-radius: 10px;
+    border: none !important;
+}
